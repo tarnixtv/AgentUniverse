@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AgentUniverse (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AgentUniverse (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
